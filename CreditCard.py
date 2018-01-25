@@ -1,14 +1,8 @@
 #  File: CreditCard.py
 
-#  Description: input a credit card number and determine if it is valid and the brand
+#  Description: Input a credit card number and determine if it is valid and the brand
 
-#  Student Name: Arturo Reyes Munoz
-
-#  Student UT EID: ar48836
-
-#  Course Name: CS 303E
-
-#  Unique Number: 50865
+#  Name: Arturo Reyes Munoz
 
 #  Date Created: 04/07
 
@@ -144,7 +138,6 @@ def main():
 
 main()
 
-#incorrect from piazza: 5, 6, 7, 
 
 
 
